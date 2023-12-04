@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm João Leite</h1>
 <h3 align="center">A passionate data specialist from Brazil</h3>
-<img align="right" alt="Chart" width="400" src="https://pro2-bar-s3-cdn-cf3.myportfolio.com/97b1d4bc028e3890ce75267deb159e95/e55ae612b7b30e7c20cf7f6e_rw_600.gif?h=64a6581b6f862780778c4f77ec24bf63">
+<img align="right" alt="Chart" width="375" src="https://pro2-bar-s3-cdn-cf3.myportfolio.com/97b1d4bc028e3890ce75267deb159e95/e55ae612b7b30e7c20cf7f6e_rw_600.gif?h=64a6581b6f862780778c4f77ec24bf63">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joao9905&label=Profile%20views&color=0e75b6&style=flat" alt="joao9905" /> </p>
